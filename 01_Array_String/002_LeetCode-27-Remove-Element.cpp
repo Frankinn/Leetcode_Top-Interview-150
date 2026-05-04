@@ -5,8 +5,9 @@
  * Progress:
  * - Version 1: Two Pointers - Head-to-Tail Swap
  * - Version 2: Simplify code
+ * ※ 此解法會改變元素順序
+ * ※ 若val數量很多或不想改變順序，可以使用簡潔的快慢指標
  */
- //若val數量很多，可以使用簡潔的快慢指標
 class Solution {
 public:
     int removeElement(vector<int>& nums, int val) {
