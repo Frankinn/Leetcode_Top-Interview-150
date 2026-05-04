@@ -1,6 +1,6 @@
 /*
  * Top Interview 150 - 003 / 150
- * Problem: 26. Remove Duplicates from Sorted Array
+ * Problem: 26. Remove Duplicates from Sorted Array (Easy)
  * ---------------------------------------------------------
  * Progress:
  * - Version 1: Manual State Tracking

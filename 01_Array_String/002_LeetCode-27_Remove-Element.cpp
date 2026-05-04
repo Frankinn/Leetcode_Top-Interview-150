@@ -1,6 +1,6 @@
 /*
  * Top Interview 150 - 002 / 150
- * Problem: 27. Remove Element
+ * Problem: 27. Remove Element (Easy)
  * ---------------------------------------------------------
  * Progress:
  * - Version 1: Two Pointers - Head-to-Tail Swap

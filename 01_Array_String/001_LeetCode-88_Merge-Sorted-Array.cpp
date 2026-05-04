@@ -1,6 +1,6 @@
 /*
  * Top Interview 150 - 001 / 150
- * Problem: 88. Merge Sorted Array
+ * Problem: 88. Merge Sorted Array (Easy)
  * ---------------------------------------------------------
  * Progress:
  * - Version 1: Space O(m+n)
