@@ -3,4 +3,7 @@
 002. [27. Remove Element](./002_LeetCode-27_Remove-Element.cpp) (Easy)  
 頭尾swap (改變元素順序)  
 003. [26. Remove Duplicates from Sorted Array](./003_LeetCode-26-Remove-Duplicates-from-Sorted-Array.cpp) (Easy)  
-快慢指標
+快慢指標  
+004. [80. Remove Duplicates from Sorted Array II](./004_LeetCode-80_Remove-Duplicates-from-Sorted-Array-II.cpp) (Medium)  
+
+
