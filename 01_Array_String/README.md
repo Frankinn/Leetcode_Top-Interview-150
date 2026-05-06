@@ -6,8 +6,9 @@
 快慢指標  
 004. [80. Remove Duplicates from Sorted Array II](./004_LeetCode-80_Remove-Duplicates-from-Sorted-Array-II.cpp) (Medium)  
 快慢指標 (K-Lookback)  
-005. [169. Majority Element](./005_LeetCode-169_Majority-Element.cpp) (Medium)  
+005. [169. Majority Element](./005_LeetCode-169_Majority-Element.cpp) (Easy)  
 Boyer-Moore Voting  
-
+006. [189. Rotate Array](./006_LeetCode-189_Rotate-Array.cpp) (Medium)  
+Triple Reversal
 
 
