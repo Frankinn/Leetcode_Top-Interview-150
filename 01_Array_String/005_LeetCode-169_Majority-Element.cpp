@@ -1,5 +1,5 @@
 /*
- * Top Interview 150 - 004 / 150
+ * Top Interview 150 - 005 / 150
  * Problem: 169. Majority Element
  * ---------------------------------------------------------
  * Progress:
