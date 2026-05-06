@@ -10,5 +10,6 @@
 Boyer-Moore Voting  
 006. [189. Rotate Array](./006_LeetCode-189_Rotate-Array.cpp) (Medium)  
 Triple Reversal
-
+007. [121. Best Time to Buy and Sell Stock](./007_LeetCode-121_Best-Time-to-Buy-and-Sell-Stock.cpp) (Easy)  
+simple greedy  
 
