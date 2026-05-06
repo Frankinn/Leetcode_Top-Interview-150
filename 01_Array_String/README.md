@@ -12,4 +12,8 @@ Boyer-Moore Voting
 Triple Reversal
 007. [121. Best Time to Buy and Sell Stock](./007_LeetCode-121_Best-Time-to-Buy-and-Sell-Stock.cpp) (Easy)  
 simple greedy  
+008. [122. Best Time to Buy and Sell Stock II](./008_LeetCode-122_Best-Time-to-Buy-and-Sell-Stock-II.cpp) (Medium)  
+simple greedy  
+
+
 
