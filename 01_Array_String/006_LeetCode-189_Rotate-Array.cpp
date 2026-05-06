@@ -3,11 +3,18 @@
  * Problem: 189. Rotate Array
  * ---------------------------------------------------------
  * Progress:
- * - Version 1: Cyclic Replacement (gcd)
+ * - Version 1: Cyclic Replacement (GCD-based)
+ * - Version 2: Triple Reversal
  */
 class Solution {
 public:
     void rotate(vector<int>& nums, int k) {
+        k %= nums.size();
+        if(k == 0) return;
+        reverse(nums.begin(), nums.end());
+        reverse(nums.begin(), nums.begin() + k);
+        reverse(nums.begin() + k, nums.end());
+        /*  //version 1
         int size = nums.size();
         k %= size;
         int gcd = std::gcd(k, size);
@@ -25,6 +32,6 @@ public:
                 t %= size;
             }
         }
-        
+        */
     }
 };
