@@ -19,7 +19,12 @@ Greedy: Max Reachable
 010. [45. Jump Game II](./010_LeetCode-45_Jump-Game-II.cpp) (Medium)  
 Greedy: Range Extension  
 011. [274. H-Index](./011_LeetCode-274_H-Index.cpp) (Medium)  
-Counting Sort: H-index <= 論文數  
+Counting Sort: H-index $\leq$ 論文數  
+012. [380. Insert Delete GetRandom O(1)](./012_LeetCode-380_Insert-Delete-GetRandom-O(1).cpp) (Medium)  
+HashMap + Vector (Swap-with-back)  
+
+
+
 
 
 
