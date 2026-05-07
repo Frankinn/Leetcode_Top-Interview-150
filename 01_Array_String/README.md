@@ -18,7 +18,8 @@ Greedy:  $\Sigma$正價差
 Greedy: Max Reachable  
 010. [45. Jump Game II](./010_LeetCode-45_Jump-Game-II.cpp) (Medium)  
 Greedy: Range Extension  
-
+011. [274. H-Index](./011_LeetCode-274_H-Index.cpp) (Medium)  
+Counting Sort: H-index <= 論文數  
 
 
 
