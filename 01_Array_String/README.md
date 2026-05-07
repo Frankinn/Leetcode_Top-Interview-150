@@ -11,9 +11,11 @@ Boyer-Moore Voting
 006. [189. Rotate Array](./006_LeetCode-189_Rotate-Array.cpp) (Medium)  
 Triple Reversal
 007. [121. Best Time to Buy and Sell Stock](./007_LeetCode-121_Best-Time-to-Buy-and-Sell-Stock.cpp) (Easy)  
-simple greedy  
+Greedy: 紀錄低點、計算最大利潤  
 008. [122. Best Time to Buy and Sell Stock II](./008_LeetCode-122_Best-Time-to-Buy-and-Sell-Stock-II.cpp) (Medium)  
-simple greedy  
+Greedy:  $\Sigma$正價差  
+009. [55. Jump Game](./009_LeetCode-55_Jump-Game.cpp) (Medium)  
+Greedy: Max Reachable  
 
 
 
