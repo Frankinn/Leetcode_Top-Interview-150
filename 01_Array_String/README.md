@@ -16,6 +16,9 @@ Greedy: 紀錄低點、計算最大利潤
 Greedy:  $\Sigma$正價差  
 009. [55. Jump Game](./009_LeetCode-55_Jump-Game.cpp) (Medium)  
 Greedy: Max Reachable  
+010. [45. Jump Game II](./010_LeetCode-45_Jump-Game-II.cpp) (Medium)  
+Greedy: Range Extension  
+
 
 
 
