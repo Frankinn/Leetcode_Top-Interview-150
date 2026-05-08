@@ -29,7 +29,8 @@ Greedy: Global & Local Surplus Tracking
 015. [135. Candy](./015_LeetCode-135_Candy.cpp) (Hard)  
 Two-Pass Greedy: 分別滿足左右條件 (O(n) Space)  
 Slope Method: 紀錄上下坡長度(up, down, peak)直接處理 (O(1) Space)  
-
+016. [42. Trapping Rain Water](./016_LeetCode-42_Trapping-Rain-Water.cpp) (Hard)  
+水量由矮牆決定，使用雙指標每次移動並處理較低一側  
 
 
 
