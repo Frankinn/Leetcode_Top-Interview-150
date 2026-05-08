@@ -26,7 +26,9 @@ HashMap + Vector (Swap-with-back)
 Prefix & Suffix Products  
 014. [134. Gas Station](./014_LeetCode-134_Gas-Station.cpp) (Medium)  
 Greedy: Global & Local Surplus Tracking  
-
+015. [135. Candy](./015_LeetCode-135_Candy.cpp) (Hard)  
+Two-Pass Greedy: 分別滿足左右條件 (O(n) Space)  
+Slope Method: 紀錄上下坡長度(up, down, peak)直接處理 (O(1) Space)  
 
 
 
