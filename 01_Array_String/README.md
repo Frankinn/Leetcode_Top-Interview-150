@@ -35,7 +35,8 @@ Slope Method: 紀錄上下坡長度(up, down, peak)直接處理 (O(1) Space)
 Switch table  
 018. [12. Integer to Roman](./018_LeetCode-12_Integer-to-Roman.cpp) (Medium)  
 Greedy Matching (Predefined Symbols)  
-
+019. [58. Length of Last Word](./019_LeetCode-58_Length-of-Last-Word.cpp) (Easy)  
+Backward Scan  
 
 
 
