@@ -37,6 +37,7 @@ Switch table
 Greedy Matching (Predefined Symbols)  
 019. [58. Length of Last Word](./019_LeetCode-58_Length-of-Last-Word.cpp) (Easy)  
 Backward Scan  
-
+020. [14. Longest Common Prefix](./020_LeetCode-14_Longest-Common-Prefix.cpp) (Easy)  
+Vertical Scanning  
 
 
