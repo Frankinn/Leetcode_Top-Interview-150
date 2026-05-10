@@ -41,7 +41,8 @@ Backward Scan
 Vertical Scanning  
 021. [151. Reverse Words in a String](./021_LeetCode-151_Reverse-Words-in-a-String.cpp) (Medium)  
 Slow-Fast Pointers + Double Reversal  
-
+022. [6. Zigzag Conversion](./022_LeetCode-6_Zigzag-Conversion.cpp) (Medium)  
+Find cycle = 2×rows-2 (space O(1)) or Simulation (space O(n))
 
 
 
