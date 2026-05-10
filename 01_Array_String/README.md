@@ -43,7 +43,8 @@ Vertical Scanning
 Slow-Fast Pointers + Double Reversal  
 022. [6. Zigzag Conversion](./022_LeetCode-6_Zigzag-Conversion.cpp) (Medium)  
 Find cycle = 2×rows-2 (space O(1)) or Simulation (space O(n))
-
+023. [28. Find the Index of the First Occurrence in a String](./023_LeetCode-28_Find-the-Index-of-the-First-Occurrence-in-a-String.cpp) (Easy)  
+KMP (Knuth-Morris-Pratt) Algorithm: 建立LPS (Longest Prefix Suffix)表  
 
 
 
