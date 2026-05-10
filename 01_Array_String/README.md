@@ -45,7 +45,8 @@ Slow-Fast Pointers + Double Reversal
 Find cycle = 2×rows-2 (space O(1)) or Simulation (space O(n))
 023. [28. Find the Index of the First Occurrence in a String](./023_LeetCode-28_Find-the-Index-of-the-First-Occurrence-in-a-String.cpp) (Easy)  
 KMP (Knuth-Morris-Pratt) Algorithm: 建立LPS (Longest Prefix Suffix)表  
-
+024. [68. Text Justification](./024_LeetCode-68_Text-Justification.cpp) (Hard)  
+貪婪長度計算 + 餘數空格分配  
 
 
 
