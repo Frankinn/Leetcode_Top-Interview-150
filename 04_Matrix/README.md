@@ -6,6 +6,7 @@ Boundary Shrinking
 Transpose ($M[i][j] \leftrightarrow M[j][i]$) + Reverse rows  
 037. [73. Set Matrix Zeroes](./037_LeetCode-73_Set-Matrix-Zeroes.cpp) (Medium)  
 Single(Dual)-Flag In-place Marking  
-
+038. [289. Game of Life](./038_LeetCode-289_Game-of-Life.cpp) (Medium)  
+Bit Manipulation  
 
 
