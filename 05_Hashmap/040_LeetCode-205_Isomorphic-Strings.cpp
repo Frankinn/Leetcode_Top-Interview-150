@@ -4,7 +4,7 @@
  * ---------------------------------------------------------
  * Progress: 
  * - Version 1: Dual Hashmaps for Explicit Mapping
- * - Version 2: Last Occurrence Pattern Sync
+ * - Version 2: Last Occurrence Index Sync
  */
 class Solution {
 public:
