@@ -4,7 +4,8 @@ Frequency Array
 Synchronized Last-Seen Index  
 041. [290. Word Pattern](./041_LeetCode-209_Word-Pattern.cpp) (Easy)  
 Synchronized Last-Seen Index  
-
+042. [242. Valid Anagram](./042_LeetCode-242_Valid-Anagram.cpp) (Easy)  
+Frequency Array Counter  
 
 
 
