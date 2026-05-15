@@ -6,6 +6,8 @@ Synchronized Last-Seen Index
 Synchronized Last-Seen Index  
 042. [242. Valid Anagram](./042_LeetCode-242_Valid-Anagram.cpp) (Easy)  
 Frequency Array Counter  
+043. [49. Group Anagrams](./043_LeetCode-49_Group-Anagrams.cpp) (Medium)  
+Frequency Count Serialization  
 
 
 
