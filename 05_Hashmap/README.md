@@ -8,7 +8,8 @@ Synchronized Last-Seen Index
 Frequency Array Counter  
 043. [49. Group Anagrams](./043_LeetCode-49_Group-Anagrams.cpp) (Medium)  
 Frequency Count Serialization  
-
+044. [1. Two Sum](./044_LeetCode-1_Two-Sum.cpp) (Easy)  
+Hash Map  
 
 
 
