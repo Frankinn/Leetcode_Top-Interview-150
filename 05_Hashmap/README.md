@@ -12,7 +12,8 @@ Frequency Count Serialization
 Hash Map  
 045. [202. Happy Number](./045_LeetCode-202_Happy-Number.cpp) (Easy)  
 Fast Slow Pointers  
-
+046. [219. Contains Duplicate II](./046_LeetCode-219_Contains-Duplicate-II.cpp) (Easy)  
+Sliding Window with Hash Set  
 
 
 
