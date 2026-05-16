@@ -10,7 +10,8 @@ Frequency Array Counter
 Frequency Count Serialization  
 044. [1. Two Sum](./044_LeetCode-1_Two-Sum.cpp) (Easy)  
 Hash Map  
-
+045. [202. Happy Number](./045_LeetCode-202_Happy-Number.cpp) (Easy)  
+Fast Slow Pointers  
 
 
 
