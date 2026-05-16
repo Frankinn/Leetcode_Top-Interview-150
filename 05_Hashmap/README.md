@@ -14,6 +14,8 @@ Hash Map
 Fast Slow Pointers  
 046. [219. Contains Duplicate II](./046_LeetCode-219_Contains-Duplicate-II.cpp) (Easy)  
 Sliding Window with Hash Set  
+047. [128. Longest Consecutive Sequence](./047_LeetCode-128_Longest-Consecutive-Sequence.cpp) (Medium)  
+Hash Set Intelligent Scan  
 
 
 
